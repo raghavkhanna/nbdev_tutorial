@@ -33,3 +33,23 @@ say_hello('Raghav')
     'Hello Raghav!'
 
 
+
+```
+obj = HelloSayer('Jeremy')
+obj.say()
+```
+
+
+
+
+    'Hello Jeremy!'
+
+
+
+```
+from nbdev.export import notebook2script; notebook2script()
+```
+
+    Converted 00_core.ipynb.
+    Converted index.ipynb.
+
